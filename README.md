@@ -11,7 +11,8 @@
 📦 **GitHub Repo:** (https://github.com/qamro/Landing-page-AI-ChatBot)
 
  
-[🌐 Live Demo](https://landing-page-autoreply.vercel.app) 
+🌐 **Live Demo:** (https://aether-campus.qamrodz.workers.dev)  
+
 </div>
 
 
@@ -25,14 +26,8 @@
 - [Target Market](#-target-market)
 - [Vision & Roadmap](#-vision--roadmap)
 - [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
 - [Deployment](#-deployment)
-- [Environment Variables](#-environment-variables)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
 
 ---
 
