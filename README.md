@@ -11,7 +11,7 @@
 📦 **GitHub Repo:** (https://github.com/qamro/Landing-page-AI-ChatBot)
 
  
-🌐 **Live Demo:** (https://aether-campus.qamrodz.workers.dev)  
+🌐 **Live Demo:** (https://landing-page-autoreply.vercel.app)  
 
 </div>
 
