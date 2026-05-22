@@ -121,9 +121,9 @@ This repository contains the **landing page** for AutoReply.
 | **Framework** | [Next.js](https://nextjs.org/) |
 | **Styling** | [Tailwind CSS](https://tailwindcss.com/) |
 | **Deployment** | [Vercel](https://vercel.com/) |
-| **Animations** | Framer Motion *(if used)* |
-| **Icons** | Lucide / Heroicons *(if used)* |
-| **Forms** | React Hook Form / EmailJS *(if used)* |
+| **Animations** | Framer Motion |
+| **Icons** | Lucide / Heroicons |
+| **Forms** | React Hook Form / EmailJS |
 
 > 📝 *Update this section with your actual stack if different.*
 
