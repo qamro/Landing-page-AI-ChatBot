@@ -37,7 +37,7 @@
 
 Our landing page showcases the product, explains its value proposition, and converts visitors into clients. The site is live, deployed on **Vercel**, and built as a modern, fast, SEO-optimized frontend.
 
-> 💡 **The problem we solve:** Clothing e-commerce store owners spend hours every day manually replying to repetitive customer questions on Instagram, Messenger, WhatsApp, and Telegram. AutoReply handles all of that — automatically, intelligently, 24/7.
+> 💡 **The problem we solve:** Clothing e-commerce store owners spend hours every day manually replying to repetitive customer questions on Instagram, Messenger, WhatsApp, and Telegram. AutoReply handles all of that automatically, intelligently, 24/7.
 
 ---
 
